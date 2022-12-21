@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="foodtextflour">мука</string>
+    <string name="foodtextcookie">печенье</string>
+    <string name="foodtextsupper">ужин</string>
+    <string name="foodtextoyster">устрица</string>
+    <string name="foodtextcrumbs">крошки</string>
+    <string name="foodtextjelly">желе</string>
+    <string name="foodtextonion">лук</string>
+    <string name="foodtextplum">слива</string>
+    <string name="foodtextbean">боб</string>
+    <string name="foodtextbutter">масло</string>
+</resources>

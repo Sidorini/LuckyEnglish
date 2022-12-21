@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weathertextdew">роса</string>
+    <string name="weathertextsun">солнце</string>
+    <string name="weathertextwet">мокрый</string>
+    <string name="weathertextcloud">облако</string>
+    <string name="weathertextfog">туман</string>
+    <string name="weathertextmist">дымка</string>
+    <string name="weathertextrain">дождь</string>
+    <string name="weathertextstorm">гроза</string>
+    <string name="weathertexthail">град</string>
+    <string name="weathertextfrost">мороз</string>
+</resources>

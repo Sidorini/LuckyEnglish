@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="citytextmayor">мэр</string>
+    <string name="citytextclinic">клиника</string>
+    <string name="citytextroad">дорога</string>
+    <string name="citytextlibrary">библиотека</string>
+    <string name="citytexttown">город</string>
+    <string name="citytextbar">бар</string>
+    <string name="citytextpark">парк</string>
+    <string name="citytexttour">тур</string>
+    <string name="citytextmuseum">музей</string>
+    <string name="citytextbeach">пляж</string>
+</resources>
+

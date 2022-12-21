@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="animaltextgoat">коза</string>
+    <string name="animaltextdeer">олень</string>
+    <string name="animaltextheron">цапля</string>
+    <string name="animaltextram">баран</string>
+    <string name="animaltexthawk">ястреб</string>
+    <string name="animaltexttiger">тигр</string>
+    <string name="animaltextlion">лев</string>
+    <string name="animaltextpony">пони</string>
+    <string name="animaltextshark">акула</string>
+    <string name="animaltextsheep">овца</string>
+</resources>

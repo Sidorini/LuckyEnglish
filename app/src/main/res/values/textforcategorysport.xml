@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sporttextcrew">команда</string>
+    <string name="sporttextgolf">гольф</string>
+    <string name="sporttextarrow">стрела</string>
+    <string name="sporttextpuck">шайба</string>
+    <string name="sporttextpolo">поло</string>
+    <string name="sporttextskis">лыжи</string>
+    <string name="sporttextdarts">дартс</string>
+    <string name="sporttextrace">гонка</string>
+    <string name="sporttextjudo">дзюдо</string>
+    <string name="sporttextbow">лук</string>
+</resources>

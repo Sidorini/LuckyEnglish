@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="housetexthouse">дом</string>
+    <string name="housetextoven">духовка</string>
+    <string name="housetextbed">кровать</string>
+    <string name="housetextwindow">окно</string>
+    <string name="housetextfence">забор</string>
+    <string name="housetextstuff">вещи</string>
+    <string name="housetextstair">ступенька</string>
+    <string name="housetextceiling">потолок</string>
+    <string name="housetextpool">бассейн</string>
+    <string name="housetextfloor">этаж</string>
+</resources>

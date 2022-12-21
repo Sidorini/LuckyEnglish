@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LuckyEnglish</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="category">Категория</string>
+    <string name="category_appearance">Категория внешность</string>
+    <string name="category_city">Категория город</string>
+    <string name="category_house">Категория дом и быт</string>
+    <string name="category_food">Категория еда</string>
+    <string name="category_animals">Категория животные</string>
+    <string name="category_kitchen">Категория кухня</string>
+    <string name="category_clothes">Категория одежда</string>
+    <string name="category_weather">Категория погода</string>
+    <string name="category_profession">Категория профессии</string>
+    <string name="category_sport">Категория спорт</string>
+    <string name="category_character">Категория характер</string>
+    <string name="category_appearance_beautiful">красивый</string>
+    <string name="category_description">Выберите перевод слова.\nКарточки могут повторяться, пока вы не наберете 20 очков. </string>
+    <string name="category_description_end">Вы набрали 20 очков!\nПоздравляем!</string>
+    <string name="text_continue">Продолжить</string>
+
+</resources>

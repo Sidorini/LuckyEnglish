@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charactertextlying">лживый</string>
+    <string name="charactertexttolerant">терпимый</string>
+    <string name="charactertextlazy">ленивый</string>
+    <string name="charactertextnaive">наивный</string>
+    <string name="charactertextideal">идеальный</string>
+    <string name="charactertextproud">гордый</string>
+    <string name="charactertextselfish">эгоистичный</string>
+    <string name="charactertextangry">злой</string>
+    <string name="charactertextactive">активный</string>
+    <string name="charactertextsly">хитрый</string>
+</resources>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kitchentexthoney">мед</string>
+    <string name="kitchentextcoffee">кофе</string>
+    <string name="kitchentextdiet">диета</string>
+    <string name="kitchentextsteam">пар</string>
+    <string name="kitchentexttea">чай</string>
+    <string name="kitchentextbone">кость</string>
+    <string name="kitchentextsalt">соль</string>
+    <string name="kitchentexttoast">тост</string>
+    <string name="kitchentextfry">жарить</string>
+    <string name="kitchentextdry">сухой</string>
+</resources>

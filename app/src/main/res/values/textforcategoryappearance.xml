@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appearancetextbeard">борода</string>
+    <string name="appearancetextbeautiful">красивый</string>
+    <string name="appearancetextface">лицо</string>
+    <string name="appearancetextfat">толстый</string>
+    <string name="appearancetextfigure">фигура</string>
+    <string name="appearancetextpale">бледный</string>
+    <string name="appearancetextshort">короткий</string>
+    <string name="appearancetexttall">высокий</string>
+    <string name="appearancetextthin">тощий</string>
+    <string name="appearancetextugly">уродливый</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clothestextjacket">куртка</string>
+    <string name="clothestextcap">кепка</string>
+    <string name="clothestextpants">брюки</string>
+    <string name="clothestextstrap">ремень</string>
+    <string name="clothestextwool">шерсть</string>
+    <string name="clothestextshirt">рубашка</string>
+    <string name="clothestextveil">вуаль</string>
+    <string name="clothestextfur">мех</string>
+    <string name="clothestextcotton">хлопок</string>
+    <string name="clothestextshorts">шорты</string>
+</resources>

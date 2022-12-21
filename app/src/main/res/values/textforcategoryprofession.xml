@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="professiontextactor">актер</string>
+    <string name="professiontextbaker">пекарь</string>
+    <string name="professiontextflorist">флорист</string>
+    <string name="professiontextpilot">пилот</string>
+    <string name="professiontexttailor">портной</string>
+    <string name="professiontextsoldier">солдат</string>
+    <string name="professiontextdoctor">доктор</string>
+    <string name="professiontextlawyer">юрист</string>
+    <string name="professiontextteacher">учитель</string>
+    <string name="professiontextplumber">сантехник</string>
+</resources>
